@@ -24,12 +24,27 @@ The app enables real-time churn prediction and provides insights into customer r
 
 ---
 
-## ⚙️ Installation
+## ⚙️ How to run locally
 
-Clone the repository and install dependencies:
+1. Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/yourusername/customer-churn-prediction.git
 cd customer-churn-prediction
+```
+
+2. Install dependecies
+```bash
 pip install -r requirements.txt
+```
+
+3.Run the app
+```bash
+streamlit run customer_churn.py
+```
+
+---
+
+## Running the App
+```bash
 
