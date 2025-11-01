@@ -42,9 +42,3 @@ pip install -r requirements.txt
 ```bash
 streamlit run customer_churn.py
 ```
-
----
-
-## Running the App
-```bash
-
